@@ -26,4 +26,6 @@ require (
 	github.com/video-dev/zencoder v0.0.0-20161215190743-745874544382
 )
 
+replace github.com/video-dev/video-transcoding-api => github.com/StephQuery/transcode-orchestrator latest
+
 go 1.14
